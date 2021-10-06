@@ -6,5 +6,5 @@
  Alfian Ezza Raditya
  E41200363 / TIF A
  
- !Image[]
- !Image[]
+ !Image[https://github.com/rianejakk/recycleView/blob/main/listView.png]
+ !Image[https://github.com/rianejakk/recycleView/blob/main/detailView.png]
